@@ -4,7 +4,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://lavnish1997.github.io/CodeClauseInternship_Responsive-Music-Player/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
